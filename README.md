@@ -2,4 +2,4 @@
 
 It's a bot the replies a rat image to user.
 
-![RATROBOT](https://user-images.githubusercontent.com/112970249/217348687-7cde0c80-15e1-4d7c-be77-7b5405988059.gif)
+![RATROBOO](https://user-images.githubusercontent.com/112970249/217349744-8483c534-1472-4611-af7a-801a4c293423.gif)
