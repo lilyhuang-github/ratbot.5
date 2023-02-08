@@ -6,4 +6,5 @@ Utilises some code to keep it running using replit: https://ratbot5.lilyhao.repl
 
 Doesn't have the discord token
 
-![RATROBOO](https://user-images.githubusercontent.com/112970249/217349744-8483c534-1472-4611-af7a-801a4c293423.gif)
+![Recording 2023-02-07 at 22 56 22](https://user-images.githubusercontent.com/112970249/217429284-f8f214ac-9038-4be1-8443-9a5ca90ba4f8.gif)
+
