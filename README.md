@@ -1,6 +1,6 @@
 # Rat discord bot
 
-This is an attempt to understand how the Discord API works/API's in general and to get experiencce on making a program for a more real world type thing.
+This was made by me to understand how the Discord API works/API's in general and to get experiencce on making a program for a more real world type thing.
 
 It's a bot the replies a rat image to user.
 
